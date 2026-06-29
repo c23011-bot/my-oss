@@ -1,8 +1,9 @@
 public class Fruit {
     private String name;
-    private int wight;
+    private int weight;
 
-    public Fruite(string name, int weight) {
+
+    public Fruit (string name, int weight) {
         this.name = name;
         this.weight = weight;
     }
